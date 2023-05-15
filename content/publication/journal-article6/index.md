@@ -1,7 +1,9 @@
 ---
 title: "Investigate potential role of NCAM1 in pulmonary artery hypertension"
 authors:
-- Chen H, Shu T, Wang L
+- Chen H
+- Shu T
+- Wang L
 - admin
 author_notes:
 - "First author"

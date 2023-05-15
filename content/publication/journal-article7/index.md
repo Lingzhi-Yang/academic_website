@@ -1,7 +1,9 @@
 ---
 title: "Pulmonary artery enlargement predicts poor survival in patients with COPD: A meta-analysis. Pulm Circ"
 authors:
-- Chen H, Shu T, Wang L
+- Chen H
+- Shu T
+- Wang L
 - admin
 author_notes:
 - "First author"
