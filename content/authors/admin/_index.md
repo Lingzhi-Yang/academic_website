@@ -34,10 +34,10 @@ interests:
 education:
   courses:
     - course: M.M. in Clinical Medicinee
-      institution: ChongQing Medical University
+      institution: ChongQing Medical University(CQMU)
       year: 2021-2024
     - course: BMed in Clinical Medicine
-      institution: ChongQing Medical University
+      institution: ChongQing Medical University(CQMU)
       year: 2017-2021
     - course: Joint Training Program in Clinical Medicine
       institution: Huazhong University of Science and Technology(HUST)
