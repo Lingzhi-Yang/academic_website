@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lingzhi Yang 楊凌志
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lingzhi
+last_name: Yang
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: ChongQing Medical University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.M. in Clinical Medicinee
+      institution: ChongQing Medical University
+      year: 2021-2024
+    - course: BMed in Clinical Medicine
+      institution: ChongQing Medical University
+      year: 2017-2021
+    - course: Joint Training Program in Clinical Medicine
+      institution: Huazhong University of Science and Technology(HUST)
+      year: 2016-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
