@@ -31,13 +31,13 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: true
+    show_search: false
+    highlight_active_link: false
 
 # Site footer
 
@@ -45,10 +45,10 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: false
-      allow_derivatives: false
+      enable: true
+      allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 
