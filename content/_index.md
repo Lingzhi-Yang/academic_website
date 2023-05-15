@@ -65,6 +65,16 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+        - title: Neurological and Cognitive Sciences Summer School
+          company: PKU-IDG/McGovern Institute For Brain Research
+          company_url: 'https://www.cqmu.edu.cn/'
+          company_logo: PKU
+          location: Beijing, China
+          date_start: '2018-09-01'
+          date_end: '2018-10-01'
+          description: |2-
+              Neurological and Cognitive Sciences Summer School
+
         - title: Joint Training Program in Clinical Medicine
           company: Huazhong University of Science and Technology(HUST)
           company_url: 'https://www.hust.edu.cn/'
