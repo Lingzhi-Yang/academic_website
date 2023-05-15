@@ -100,20 +100,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    content:
-      title: Awards
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
-      filters:
-        folders:
-          - Awards
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: portfolio
     id: projects
     content:
@@ -141,6 +127,20 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: collection
+    content:
+      title: Awards
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - Awards
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   # - block: markdown
   #   content:
   #     title: Gallery
