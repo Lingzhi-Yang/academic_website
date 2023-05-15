@@ -1,12 +1,11 @@
 ---
-title: "Identification of Cuproptosis-related subphenotypes and implication of PDHB in Pulmonary Arterial Hypertension"
+title: "Pulmonary artery enlargement predicts poor survival in patients with COPD: A meta-analysis. Pulm Circ"
 authors:
-- Lingzhi Yang
-- Wei Huang
+- Chen H, Shu T, Wang L, Yang L
 author_notes:
 - "First author"
 date: "2022-07-01T00:00:00Z"
-doi: "10.3389/fcvm.2022.920399"
+doi: " https://doi.org/10.1002/pul2.12099"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-07-01T00:00:00Z"
@@ -18,7 +17,7 @@ publishDate: "2022-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Cardiovascular Medicine(Under Review)"
+publication: "*Pulmonary Circulation"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -33,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9329605/
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/pul2.12099
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 url_poster: ''

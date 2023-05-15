@@ -1,5 +1,5 @@
 ---
-title: "Identification of Cuproptosis-related subphenotypes and implication of PDHB in Pulmonary Arterial Hypertension"
+title: "Investigate energy homeostasis-related genes in idiopathic pulmonary artery hypertension"
 authors:
 - Lingzhi Yang
 - Wei Huang

@@ -1,8 +1,7 @@
 ---
-title: "Identification of Cuproptosis-related subphenotypes and implication of PDHB in Pulmonary Arterial Hypertension"
+title: "Investigate potential role of NCAM1 in pulmonary artery hypertension"
 authors:
-- Lingzhi Yang
-- Wei Huang
+- Chen H, Shu T, Wang L, Yang L
 author_notes:
 - "First author"
 date: "2022-07-01T00:00:00Z"
