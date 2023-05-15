@@ -52,10 +52,10 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Joint Training Program in Clinical Medicine
+          company: Huazhong University of Science and Technology(HUST)
           company_url: ''
-          company_logo: CQMU
+          company_logo: HUST
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
