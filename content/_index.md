@@ -42,7 +42,7 @@ sections:
         - title: M.M. in Clinical Medicinee
           company: ChongQing Medical University(CQMU)
           company_url: 'https://www.cqmu.edu.cn/'
-          company_logo: CQMU.png
+          company_logo: CQMU
           location: Chongqing, China
           date_start: '2021-09'
           date_end: '2024-07'
@@ -55,7 +55,7 @@ sections:
         - title: BMed in Clinical Medicine
           company: ChongQing Medical University(CQMU)
           company_url: 'https://www.cqmu.edu.cn/'
-          company_logo: CQMU.png
+          company_logo: CQMU
           location: Chongqing, China
           date_start: '2017-09'
           date_end: '2021-09'
@@ -68,7 +68,7 @@ sections:
         - title: Joint Training Program in Clinical Medicine
           company: Huazhong University of Science and Technology(HUST)
           company_url: 'https://www.hust.edu.cn/'
-          company_logo: HUST.png
+          company_logo: HUST
           location: Wuhan, China
           date_start: '2016-09'
           date_end: '2017-09'
