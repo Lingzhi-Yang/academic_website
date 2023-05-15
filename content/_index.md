@@ -89,12 +89,10 @@ sections:
     id: featured
     content:
       title: Publications
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
-      tags: |-
-        - Source Themes
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - publication
