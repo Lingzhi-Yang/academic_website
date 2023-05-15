@@ -140,7 +140,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: 2
   # - block: markdown
   #   content:
   #     title: Gallery
