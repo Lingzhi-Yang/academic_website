@@ -1,7 +1,7 @@
 ---
 title: "Hub Genes Identification, Small Molecule Compounds Prediction for Atrial Fibrillation and Diagnostic Model Construction Based on XGBoost Algorithm"
 authors:
-- **Lingzhi Yang**
+- Lingzhi Yang
 - Wei Huang
 author_notes:
 - "First author"
