@@ -1,12 +1,12 @@
 ---
 title: "Risk of incident atrial fibrillation with low-to-moderate alcohol consumption is associated with gender, region, alcohol category: a systematic review and meta-analysis"
 authors:
-- Lingzhi Yang
-- Wei Huang
+- admin
+- Robert Ford
 author_notes:
 - "First author"
-date: "2022-09-01T00:00:00Z"
-doi: "https://doi.org/10.1093/europace/euab266"
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
