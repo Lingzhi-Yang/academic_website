@@ -99,7 +99,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: card
   - block: portfolio
     id: projects
     content:
@@ -140,7 +140,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: card
+      view: citation
   # - block: markdown
   #   content:
   #     title: Gallery
