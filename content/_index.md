@@ -99,7 +99,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: card
+      view: citation
   - block: portfolio
     id: projects
     content:
