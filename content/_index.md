@@ -39,26 +39,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: BMed in Clinical Medicine
-          company: ChongQing Medical University(CQMU)
-          company_url: 'https://www.cqmu.edu.cn/'
-          company_logo: CQMU
-          location: Chongqing, China
-          date_start: '2017-09'
-          date_end: '2021-09'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Joint Training Program in Clinical Medicine
-          company: Huazhong University of Science and Technology(HUST)
-          company_url: 'https://www.hust.edu.cn/'
-          company_logo: HUST
-          location: Wuhan, China
-          date_start: '2016-09'
-          date_end: '2017-09'
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: CQMU
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
