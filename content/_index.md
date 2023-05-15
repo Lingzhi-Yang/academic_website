@@ -140,7 +140,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: 2
+      view: card
   # - block: markdown
   #   content:
   #     title: Gallery
