@@ -1,7 +1,7 @@
 ---
 title: "Investigate energy homeostasis-related genes in idiopathic pulmonary artery hypertension"
 authors:
-- Lingzhi Yang
+- admin
 - Wei Huang
 author_notes:
 - "First author"

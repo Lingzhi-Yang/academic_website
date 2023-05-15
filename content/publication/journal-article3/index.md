@@ -1,7 +1,7 @@
 ---
 title: "Identification of Cuproptosis-related subphenotypes and implication of PDHB in Pulmonary Arterial Hypertension"
 authors:
-- Lingzhi Yang
+- admin
 - Wei Huang
 author_notes:
 - "First author"
