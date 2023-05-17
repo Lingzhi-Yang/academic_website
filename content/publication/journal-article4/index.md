@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "Scientific Reports Review)"
 publication_short: ""
 
-Highlight: Classifier based on Cuproptosis-related genes may be used for identifying heterogeneity of PAH. The downregulation of PDHB could affect metabolic status, mitochondrial function and immune infiltration in PAH.
+abstract: Classifier based on Cuproptosis-related genes may be used for identifying heterogeneity of PAH. The downregulation of PDHB could affect metabolic status, mitochondrial function and immune infiltration in PAH.
 # Summary. An optional shortened abstract.
 summary: Classifier based on Cuproptosis-related genes may be used for identifying heterogeneity of PAH. The downregulation of PDHB could affect metabolic status, mitochondrial function and immune infiltration in PAH.
 

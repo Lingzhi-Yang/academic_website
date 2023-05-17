@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "EP Europace"
 publication_short: ""
 
-Highlight: It is important to identify modifiable risk factors for AF management.
+abstract: It is important to identify modifiable risk factors for AF management.
 It is observed that males, beer drinkers, Europeans, and Asians
 in moderate alcohol consumption groups and Europeans in
 low alcohol consumption groups are at risk of developing AF.

@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "iScience (Under Review)"
 publication_short: ""
 
-Highlight: NCAM1 may be associated with pulmonary arterial hypertension and promotes the proliferation and migration of PASMCs via the ERK1/2 signaling pathway.
+abstract: NCAM1 may be associated with pulmonary arterial hypertension and promotes the proliferation and migration of PASMCs via the ERK1/2 signaling pathway.
 
 # Summary. An optional shortened abstract.
 summary: NCAM1 may be associated with pulmonary arterial hypertension and promotes the proliferation and migration of PASMCs via the ERK1/2 signaling pathway.
