@@ -80,5 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Lingzhi Yang (楊凌志), a Master of Medicine (M.Med) candidate at The Chongqing Medical University🏫. My research interests lie in the areas of multi-omics analysis, molecular biology and clinical investigation. I have 2 accepted academic papers published on EP Europace and Frontiers in Cardiovascular Medicine, and the first author of 1 under-review Scientific Reports journal (see my publication list for details).
+In addition to my academic pursuits, I am also an active knowledge sharing contributor😊. I have opened my personal account platform on Wechat and earned acknowledgement from readers.
+I am dedicated to producing high-quality research and making meaningful contributions to clinical translation.
 {style="text-align: justify;"}
