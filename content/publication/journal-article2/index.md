@@ -18,10 +18,10 @@ publishDate: "2022-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Cardiovascular Medicine"
+publication: "Frontiers in Cardiovascular Medicine"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The pathogenesis of AF is complex and current therapeutic strategies have important limitations. CXCL12 might be a biomarker that could be used for distinguishing subsets of AF, and indicated that CXCL12 might be an important intermediate in the development of AF by increasing the infiltration of mast cells, neutrophils, and $γ$ $δ$ T cells, and reducing infiltration of regulatory T cells.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
