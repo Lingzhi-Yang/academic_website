@@ -20,13 +20,13 @@ publishDate: "2022-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Cardiovascular Medicine(Under Review)"
+publication: "iScience(Under Review)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: NCAM1 may be associated with pulmonary arterial hypertension and promotes the proliferation and migration of PASMCs via the ERK1/2 signaling pathway.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: NCAM1 may be associated with pulmonary arterial hypertension and promotes the proliferation and migration of PASMCs via the ERK1/2 signaling pathway.
 
 # tags:
 # - Source Themes

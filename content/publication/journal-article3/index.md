@@ -18,13 +18,13 @@ publishDate: "2022-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Frontiers in Cardiovascular Medicine(Under Review)"
+publication: "Scientific Reports(Under Review)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Classifier based on Cuproptosis-related genes may be used for identifying heterogeneity of PAH. The downregulation of PDHB could affect metabolic status, mitochondrial function and immune infiltration in PAH.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Classifier based on Cuproptosis-related genes may be used for identifying heterogeneity of PAH. The downregulation of PDHB could affect metabolic status, mitochondrial function and immune infiltration in PAH.
 
 # tags:
 # - Source Themes
