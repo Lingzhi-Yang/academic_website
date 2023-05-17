@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "First author"
 date: "2022-07-01T00:00:00Z"
-doi: "10.3389/fcvm.2022.920399"
+# doi: "10.3389/fcvm.2022.920399"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-07-01T00:00:00Z"
@@ -33,10 +33,10 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9329605/
+# url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9329605/
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
-url_poster: ''
+# url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
