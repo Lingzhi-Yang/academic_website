@@ -149,7 +149,7 @@ sections:
     content:
       title: Awards
       text: |-
-        ational Scholarship for Master’s Degree Students. January 2022
+        National Scholarship for Master’s Degree Students. January 2022
 
         Meritorious student at Department Level January 2022
 
@@ -183,7 +183,7 @@ sections:
           - Awards
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   # - block: markdown
   #   content:
