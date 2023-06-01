@@ -89,21 +89,21 @@ sections:
     design:
       columns: '2'
 
-  - block: experience
+  - block: collection
     id: news
     content:
       title: News
-      
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      text: |-
-        Quickly discover relevant content by.
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - news
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 
   - block: collection
     id: featured
