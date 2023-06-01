@@ -1,10 +1,10 @@
 ---
 title: "NCAM1 Promotes the Proliferation and Migration of Pulmonary Arterial Smooth Muscle Cells via the ERK1/2 Pathway"
 authors:
-- Chen H
-- Shu T
-- Wang L
+- Yunwei Chen
+- Yunjing Yang
 - admin
+- Wei Huang
 author_notes:
 - "First author"
 date: "2022-07-01T00:00:00Z"
