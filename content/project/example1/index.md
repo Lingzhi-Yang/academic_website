@@ -1,16 +1,16 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Pregnant Women With Pulmonary Hypertension (NCT05198206)
+summary: In this program, we established a nationwide observational cohort and identified patients at higher risk of adverse outcome with the collaboration of other colleagues across China.
 tags:
-  - Deep Learning
+  # - Deep Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  # caption: Photo by rawpixel on Unsplash
+  # focal_point: Smart
 
 # links:
 #   - icon: twitter
