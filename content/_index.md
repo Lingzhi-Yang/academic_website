@@ -80,7 +80,7 @@ sections:
           location: Wuhan, China
           date_start: '2016-09-01'
           date_end: '2017-09-01'
-          description: Specialization: joint training program for foundational subjects.
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: collection
