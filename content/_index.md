@@ -69,7 +69,7 @@ sections:
               
         - title: Neurological and Cognitive Sciences Summer School
           company: PKU-IDG/McGovern Institute For Brain Research
-          company_url: 'https://www.cqmu.edu.cn/'
+          company_url: 'https://mgv.pku.edu.cn/english/index.htm'
           company_logo: PKU
           location: Beijing, China
           date_start: '2018-09-01'
