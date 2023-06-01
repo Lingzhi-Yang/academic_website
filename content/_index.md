@@ -90,6 +90,7 @@ sections:
       columns: '2'
 
   - block: experience
+    id: news
     content:
       title: News
       # Date format for experience
@@ -101,7 +102,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - description: |2-
+        - title: M.M. in Clinical Medicinee
+          company: ChongQing Medical University(CQMU)
+          company_url: 'https://www.cqmu.edu.cn/'
+          company_logo: CQMU
+          location: Chongqing, China
+          date_start: '2021-09-01'
+          date_end: '2024-07-01'
+          description: |2-
               In 1st affiliated hospital of Chongqing medical university, I worked for:
 
               * Standardized training for resident physicians
