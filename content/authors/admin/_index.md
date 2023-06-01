@@ -39,7 +39,7 @@ education:
     - course: BMed in Clinical Medicine
       institution: ChongQing Medical University(CQMU)
       year: 2017-2021
-    - course: Joint Training Program in Clinical Medicine
+    - course: Joint training program for foundational subjects
       institution: Huazhong University of Science and Technology(HUST)
       year: 2016-2017
 
@@ -72,7 +72,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/Lingzhi_Yang_Resume.pdf
-  - icon: cn
+  - icon: cv
     icon_pack: ai
     link: uploads/Lingzhi_Yang_resume_CN.pdf
 
