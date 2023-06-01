@@ -71,7 +71,10 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Lingzhi_Yang_Resume.pdf
+  - icon: 中文简历
+    icon_pack: ai
+    link: uploads/Lingzhi_Yang_resume_CN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
