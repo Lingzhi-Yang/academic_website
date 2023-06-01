@@ -25,7 +25,7 @@ sections:
           icon_pack: fas
         - name: Multi-omics data analysis
           # description: 100%
-          icon: jekyll
+          icon: react
           icon_pack: fas
         # - name: Photography
         #   description: 10%
