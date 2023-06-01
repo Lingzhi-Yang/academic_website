@@ -69,10 +69,10 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: CV_EN
+  - icon: cv
     icon_pack: ai
     link: uploads/Lingzhi_Yang_Resume.pdf
-  - icon: CV_CN
+  - icon: cv
     icon_pack: ai
     link: uploads/Lingzhi_Yang_resume_CN.pdf
 
