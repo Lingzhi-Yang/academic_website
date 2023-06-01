@@ -1,12 +1,13 @@
 ---
-title: "Risk of incident atrial fibrillation with low-to-moderate alcohol consumption is associated with gender, region, alcohol category: a systematic review and meta-analysis"
+title: "Identifying CXCL12 as a Potential Marker for AF Subset Classification Based on Bioinformatic Tools"
 authors:
 - admin
 - Wei Huang
+- Yunwei Chen
 author_notes:
 - "First author"
 date: "2022-09-01T00:00:00Z"
-doi: "https://doi.org/10.1093/europace/euab266"
+# doi: "https://doi.org/10.1093/europace/euab266"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -18,13 +19,13 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "EP Europace"
+publication: "Circulation"
 publication_short: ""
 
-abstract: It is important to identify modifiable risk factors for AF management. It is observed that males, beer drinkers, Europeans, and Asians in moderate alcohol consumption groups and Europeans in low alcohol consumption groups are at risk of developing AF. More studies are warranted to find those factors that influence alcohol’s effect on predisposing AF.
+conclusion:  Key genes involving in the pathogenesis of AF were identified. The biological features of CXCL12 in AF were investigated using integrative bioinformatics tools. The results suggested that CXCL12 might be a biomarker that could be used for distinguishing subsets of AF, and indicated that CXCL12 might be an important intermediate in the development of AF by increasing the infiltration of mast cells, neutrophils, and γδ T cells, and reducing infiltration of regulatory T cells. A reliable Machine Learning-based diagnostic model was constructed. Our work improved understanding of the mechanisms of AF predisposition and progression, and identified potential therapeutic avenues for treatment of AF.
 
 # Summary. An optional shortened abstract.
-summary: It is important to identify modifiable risk factors for AF management. It is observed that males, beer drinkers, Europeans, and Asians in moderate alcohol consumption groups and Europeans in low alcohol consumption groups are at risk of developing AF. More studies are warranted to find those factors that influence alcohol’s effect on predisposing AF.
+summary: An improved understanding of the pathogenesis of AF and atrial substrate remodeling is necessary for development of novel therapeutic approaches and new management strategies.
 
 # tags:
 # - Source Themes
@@ -33,10 +34,10 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://watermark.silverchair.com/euab266.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsswggLHBgkqhkiG9w0BBwagggK4MIICtAIBADCCAq0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMB31evVi7WPj4YNV8AgEQgIICfrI8IK-ceIFKrRq2Pjd0eYvBbOOWTiHLz8c5H4CkyUzTgQlqRqYBdICcYwBO6imtSGzYrb53kPIqzUpfOhn2hc3JnpqmhFhQfWEAraCuAgajfvRX8KLu1CxNMuyaiUkl6ck1s8pBmJp24THbhLRDUuXZzpRi2h1kpIYNOoeLzduSSnND8jeM7cldfOUmTU8FYiBW_YyMCaRO1y1ez4MQjuTeXxLqKeDpRZOJE7ZoRZvm3C_64zv6o1cBQ-0ycwERicmKPePbchYXVJMGwaAW42SwWTAX6WRE6IM4-ZG0bkxMAixZnIG6ty3zzoX3wWjM4z3Je3Bkttyxld6bZ5lpthx0iPT3mcC9HhJrEoE-xMQuL-HwtnF3z3rozbHfwzV3Wxkzn7JLAYFHxRLiqtmBy-PsBGhbyj8mXjxBt5p8KBaH8O59xiskXWO4etAs4rhRGcYyeTklML-YI9QVEl-UWVQnGujqj9Mi_oQwzSXx2T1MiLv_52RNhTc0itSTsYUwxwetPo7VnnoWqmbEO9FdclTL3NyhZPp6jTuOgZjfVCyhzF1cQrB_oEqgG_CW5edBJ4d9zkvda_1j9S7Xg0NhdwUkix_Fva7vhVFgK0XUzcT3QipCGW7pZR0X-J3ejVQxDFu6ti1CJ-11G6uoPnRJQyyssZKHis2bPloEEKzaMWmvG3xBCHkOaonVXc7ZWqCnMq5LiR9cX8xxoyT19VEX88qJAJTyEsiY-oIevwH-DQSb88yF9T4YYYBi5KVQMFwY--sVm4PzdG-MHIKjDY9hZm5qs0I_L2pKqcT3-ZnlEmjBLuw8whMwR4ZoVlAltQJLu5E-uYrh7yNcipgU3jEN
+url_pdf: https://www.ahajournals.org/doi/10.1161/circ.146.suppl_1.14674
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
-url_poster: ''
+# url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
