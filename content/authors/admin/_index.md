@@ -72,7 +72,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/Lingzhi_Yang_Resume.pdf
-  - icon: user
+  - icon: page
     icon_pack: fab
     link: uploads/Lingzhi_Yang_resume_CN.pdf
 
