@@ -90,7 +90,6 @@ sections:
       columns: '2'
 
   - block: experience
-    id: news
     content:
       title: News
       # Date format for experience
