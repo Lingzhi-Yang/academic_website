@@ -90,8 +90,9 @@ sections:
       columns: '2'
 
   - block: text
-    content: |-
-      [I posted my latest work about **“CXCL12 as a Potential Marker for identifying AF Subset”** on AHA Scientific Sessions, virtual Poster Session 2022, and updated my work on **CIRCULATION** as an abstract.](https://www.ahajournals.org/doi/10.1161/circ.146.suppl_1.14674)
+    content: 
+      text: |-
+        [I posted my latest work about **“CXCL12 as a Potential Marker for identifying AF Subset”** on AHA Scientific Sessions, virtual Poster Session 2022, and updated my work on **CIRCULATION** as an abstract.](https://www.ahajournals.org/doi/10.1161/circ.146.suppl_1.14674)
 
   - block: collection
     id: featured
