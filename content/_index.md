@@ -47,11 +47,12 @@ sections:
           date_start: '2021-09-01'
           date_end: '2024-07-01'
           description: |2-
-              Responsibilities include:
+              In 1st affiliated hospital of Chongqing medical university, I worked for:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Standardized training for resident physicians
+              * Clinical investigation
+              * Bioinformatic research
+
         - title: BMed in Clinical Medicine
           company: ChongQing Medical University(CQMU)
           company_url: 'https://www.cqmu.edu.cn/'
@@ -60,11 +61,8 @@ sections:
           date_start: '2017-09-01'
           date_end: '2021-09-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Specialization: fulltime medical training
+              
         - title: Neurological and Cognitive Sciences Summer School
           company: PKU-IDG/McGovern Institute For Brain Research
           company_url: 'https://www.cqmu.edu.cn/'
@@ -82,7 +80,7 @@ sections:
           location: Wuhan, China
           date_start: '2016-09-01'
           date_end: '2017-09-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Specialization: joint training program for foundational subjects.
     design:
       columns: '2'
   - block: collection
