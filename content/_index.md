@@ -97,9 +97,7 @@ sections:
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      * Standardized training for resident physicians
-      * Standardized training for resident physicians
-      * Standardized training for resident physicians
+
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
