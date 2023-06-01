@@ -18,7 +18,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 # url_code: ''
-# url_pdf: ''
+url_pdf: 'https://www.ahajournals.org/doi/10.1161/circ.146.suppl_1.14674'
 # url_slides: ''
 # url_video: ''
 
