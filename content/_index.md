@@ -26,7 +26,7 @@ sections:
         - name: Multi-omics data analysis
           # description: 100%
           icon: react
-          icon_pack: fas
+          icon_pack: fab
         # - name: Photography
         #   description: 10%
         #   icon: camera-retro
