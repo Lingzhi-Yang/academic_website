@@ -93,8 +93,8 @@ sections:
     id: news
     content:
       title: News
-      # text: |-
-      #   I posted my latest work about “CXCL12 as a Potential Marker for identifying AF Subset” on AHA Scientific Sessions, virtual Poster Session 2022, and updated my work on CIRCULATION as an abstract.
+      text: |-
+        I posted my latest work about “CXCL12 as a Potential Marker for identifying AF Subset” on AHA Scientific Sessions, virtual Poster Session 2022, and updated my work on CIRCULATION as an abstract.
       filters:
         folders:
           - news
