@@ -101,14 +101,15 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-      - title:
-      description: |2-
-            In 1st affiliated hospital of Chongqing medical university, I worked for:
-            * Standardized training for resident physicians
-            * Clinical investigation
-            * Bioinformatic research
 
+      items:
+        - title: M.M. in Clinical Medicinee
+          description: |2-
+              In 1st affiliated hospital of Chongqing medical university, I worked for:
+
+              * Standardized training for resident physicians
+              * Clinical investigation
+              * Bioinformatic research
   - block: collection
     id: featured
     content:
