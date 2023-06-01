@@ -88,21 +88,26 @@ sections:
           Specialization: joint training program for foundational subjects.
     design:
       columns: '2'
-  - block: collection
+
+  - block: experience
     id: news
     content:
       title: News
-      text: |-
-        {{% callout note %}}
-        I posted my latest work about “CXCL12 as a Potential Marker for identifying AF Subset” on AHA Scientific Sessions, virtual Poster Session 2022, and updated my work on CIRCULATION as an abstract
-        {{% /callout %}}
-      # filters:
-      #   folders:
-      #     - news
-      #   exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - description: |2-
+              In 1st affiliated hospital of Chongqing medical university, I worked for:
+
+              * Standardized training for resident physicians
+              * Clinical investigation
+              * Bioinformatic research
   - block: collection
     id: featured
     content:
