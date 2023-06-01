@@ -148,28 +148,36 @@ sections:
   - block: collection
     content:
       title: Awards
-      # text: |-
-      #   ational Scholarship for Master’s Degree Students. January 2022
-      #   Meritorious student at Department Level January 2022
-      #   Outstanding Individual in Scientific and Technological Innovation Chongqing Medical University. January 2022
-      #   Outstanding Graduate of Chongqing Medical University. January 2020
-      #   Second Prize in the ”Concept Cup” Experimental Competition. January 2019
-      #   ”Excellent Award” at the Chongqing Medical University Undergraduate Basic Medical Science Innovation Forum
-      #   and Experimental Design Competition. January 2018
-      #   Second Prize at the University Level in the ”Foreign Language Teaching and Research Press (FLTPR)” National
-      #   English Writing Competition January 2019
-      #   Second Prize in Category C of the National English Contest for College Students. January 2019
-      #   ”Outstanding Communist Youth League Member” of the Second Affiliated Hospital of Chongqing Medical
-      #   University. January 2019
-      #   Meritorious Student Scholarship at the Department Level, Chongqing Medical University. January 2020
-      #   Meritorious Student Scholarship at the Department Level, Chongqing Medical University. January 2019
-      #   Merit Student Scholarship at the University Level, Chongqing Medical University. January 2018
-      #   Meritorious Student Scholarship at the Department Level, School of Chemistry and Chemical Engineering,
-      #   Huazhong University of Science and Technology. January 2017
-      #   Self-Improvement Scholarship of the School of Chemistry and Chemical Engineering, Huazhong University of
-      #   Science and Technology. January 2017
-      #   Excellent Academic Performance Scholarship of the School of Chemistry and Chemical Engineering, Huazhong
-      #   University of Science and Technology. January 2017
+      text: |-
+        ational Scholarship for Master’s Degree Students. January 2022
+
+        Meritorious student at Department Level January 2022
+
+        Outstanding Individual in Scientific and Technological Innovation Chongqing Medical University. January 2022
+        
+        Outstanding Graduate of Chongqing Medical University. January 2020
+        
+        Second Prize in the ”Concept Cup” Experimental Competition. January 2019
+        
+        ”Excellent Award” at the Chongqing Medical University Undergraduate Basic Medical Science Innovation Forum and Experimental Design Competition. January 2018
+        
+        Second Prize at the University Level in the ”Foreign Language Teaching and Research Press (FLTPR)” National English Writing Competition January 2019
+        
+        Second Prize in Category C of the National English Contest for College Students. January 2019
+        
+        ”Outstanding Communist Youth League Member” of the Second Affiliated Hospital of Chongqing Medical University. January 2019
+        
+        Meritorious Student Scholarship at the Department Level, Chongqing Medical University. January 2020
+        
+        Meritorious Student Scholarship at the Department Level, Chongqing Medical University. January 2019
+        
+        Merit Student Scholarship at the University Level, Chongqing Medical University. January 2018
+        
+        Meritorious Student Scholarship at the Department Level, School of Chemistry and Chemical Engineering, Huazhong University of Science and Technology. January 2017
+        
+        Self-Improvement Scholarship of the School of Chemistry and Chemical Engineering, Huazhong University of Science and Technology. January 2017
+        
+        Excellent Academic Performance Scholarship of the School of Chemistry and Chemical Engineering, Huazhong University of Science and Technology. January 2017
       filters:
         folders:
           - Awards
