@@ -72,8 +72,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/Lingzhi_Yang_Resume.pdf
-  - icon: cv
-    icon_pack: ai
+  - icon: user
+    icon_pack: fab
     link: uploads/Lingzhi_Yang_resume_CN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
