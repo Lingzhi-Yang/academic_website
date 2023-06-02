@@ -30,8 +30,8 @@ image:
 # slides: example
 ---
 
-Background: Currently, idiopathic pulmonary artery hypertension (IPAH) and chronic thromboembolic pulmonary hypertension (CTEPH) are lack of specific biomarker for diagnosis and risk stratification. Multi-omics technology makes it possible to screen for used for clinical practice.
+**Background:** Currently, idiopathic pulmonary artery hypertension (IPAH) and chronic thromboembolic pulmonary hypertension (CTEPH) are lack of specific biomarker for diagnosis and risk stratification. Multi-omics technology makes it possible to screen for used for clinical practice.
 
-Result: By combining plasma proteomic and tissue transcriptomic data, the current study identified significantly increased ADAMTSL4 expression and good clinical features correlation.
+**Result:** By combining plasma proteomic and tissue transcriptomic data, the current study identified significantly increased ADAMTSL4 expression and good clinical features correlation.
 
-Contribution: By searching public database, GSE15197 dataset was chosen for transcriptomic analysis. ADAMTSL4 expression level was increased in lung tissures in IPAH patients.
+**Contribution:** By searching public database, GSE15197 dataset was chosen for transcriptomic analysis. ADAMTSL4 expression level was increased in lung tissures in IPAH patients.
