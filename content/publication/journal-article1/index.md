@@ -18,7 +18,7 @@ publishDate: "2022-01-01T00:00:00Z"
 # publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "EP Europace"
+publication: "EP Europace"
 publication_short: ""
 
 # abstract: It is important to identify modifiable risk factors for AF management. It is observed that males, beer drinkers, Europeans, and Asians in moderate alcohol consumption groups and Europeans in low alcohol consumption groups are at risk of developing AF. More studies are warranted to find those factors that influence alcohol’s effect on predisposing AF.
