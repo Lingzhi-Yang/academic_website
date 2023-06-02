@@ -15,13 +15,13 @@ publishDate: "2022-07-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Frontiers in Cardiovascular Medicine"
+# publication: "Frontiers in Cardiovascular Medicine"
 publication_short: ""
 
-abstract: The pathogenesis of AF is complex and current therapeutic strategies have important limitations. CXCL12 might be a biomarker that could be used for distinguishing subsets of AF, and indicated that CXCL12 might be an important intermediate in the development of AF by increasing the infiltration of mast cells, neutrophils, and γ δ T cells, and reducing infiltration of regulatory T cells.
+# abstract: The pathogenesis of AF is complex and current therapeutic strategies have important limitations. CXCL12 might be a biomarker that could be used for distinguishing subsets of AF, and indicated that CXCL12 might be an important intermediate in the development of AF by increasing the infiltration of mast cells, neutrophils, and γ δ T cells, and reducing infiltration of regulatory T cells.
 
 # Summary. An optional shortened abstract.
 summary: The pathogenesis of AF is complex and current therapeutic strategies have important limitations. CXCL12 might be a biomarker that could be used for distinguishing subsets of AF, and indicated that CXCL12 might be an important intermediate in the development of AF by increasing the infiltration of mast cells, neutrophils, and γ δ T cells, and reducing infiltration of regulatory T cells.
@@ -63,7 +63,10 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+The aim of current study is to investigate the mechanisms of atrial fibrillation (AF) at transcriptomic level.
+Six persistent atrial fibrillation microarray data sets from atrium, the atrial appendage, or the sleeve of the pulmonary vein tissues were used for integration and potential genes involved in the pathogenesis of AF were filtered by using RobustRankAggregation method, weighted Gene Co-expression Network Analysis (WGCNA) and protein to protein interaction (PPI) network. It was suggested that CXCL12 increased the immune response and inflammatory status by series of functional enrichment analysis and immune infiltration analysis. It was suggested that CXCL12 might be an important intermediate in the development of AF by increasing the infiltration of mast cells, neutrophils, and \gamma\ \delta T cells, and reducing infiltration of regulatory T cells. Owing to the property of CXCL12 as a secretory protein with stable physicochemical properties, CXCL12 might serve as a potential marker for AF subsetting. A molecular classifier for AF and sinus rhythm was constructed on the basis of XGBoost algorithm and it showed great performance with an AUC of 0.9385 (95 CI: 0.9044–0.9725) and brier score of 0.12. Collectively, this study identified four key genes involved in the pathogenesis of AF, and suggested CXCL12 could be an important intermediate between the local inflammatory microenvironment and atrial fibrosis. 
 
+[Poster](poster.pdf)
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
